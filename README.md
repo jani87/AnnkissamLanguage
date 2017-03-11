@@ -33,19 +33,17 @@ Input = "abcd", should return the following list:
 
 ASSUMPTIONS
 
-Passing empty string will return empty array.
-
-If the input is made of anything other than alphabets between a to j, output will be an empty array.
-
-This code is limited for maximum of four word sentences with the words in the dictionary.
+-Maximum of four word sentences from the words in the dictionary.
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-CODE ISSUES
+CODE ISSUES TO FIX
 
-This code is having hardcoded spaces.
+-Removing hard coded spaces.
+-Extending beyond four word sentences. Getting combinations without multiple for loops.
 
-Having fixed set of words(Dictionary).
+
+
 
 
 

@@ -6,7 +6,7 @@ Imagine you have recently written a new language for Annkissam and collected all
 
 -Nouns: "abcd", "c", "def", "h", "ij", "cde"
 -Verbs: "bc", "fg", "g", "hij", "bcd"
--Articles: "a", "ac", "e"
+-Articles: "a", "ac", "e"kk
 
 However, the rules for creating a sentence in the Annkissam Language are very different. A valid sentence in the Annkissam Language should
 - have all its words present in the Annkissam Dictionary.
@@ -40,8 +40,8 @@ Rules:
 - have a verb.
 - have a noun or have at least two articles.
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 ASSUMPTIONS
 
-Passing empty string:  
+Passing empty string:  j

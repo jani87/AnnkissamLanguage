@@ -4,9 +4,9 @@ PROBLEM
 
 Imagine you have recently written a new language for Annkissam and collected all words into the Annkissam Dictionary. Similar to the English language, words can be categorized into nouns, verbs and articles. Below is the Annkissam Dictionary:
 
--Nouns: "abcd", "c", "def", "h", "ij", "cde"
--Verbs: "bc", "fg", "g", "hij", "bcd"
--Articles: "a", "ac", "e"kk
+Nouns: "abcd", "c", "def", "h", "ij", "cde"
+Verbs: "bc", "fg", "g", "hij", "bcd"
+Articles: "a", "ac", "e"kk
 
 However, the rules for creating a sentence in the Annkissam Language are very different. A valid sentence in the Annkissam Language should
 - have all its words present in the Annkissam Dictionary.
@@ -44,4 +44,4 @@ Rules:
 
 ASSUMPTIONS
 
-Passing empty string:  j
+Passing empty string:  

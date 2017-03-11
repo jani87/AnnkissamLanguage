@@ -40,7 +40,8 @@ ASSUMPTIONS
 CODE ISSUES TO FIX
 
 - Removing hard coded spaces.
-- Extending beyond four-word sentences. Getting combinations without multiple for loops.
+- Extending beyond four-word sentences. 
+- Getting combinations without multiple for loops.
 
 
 

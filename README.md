@@ -33,14 +33,14 @@ Input = "abcd", should return the following list:
 
 ASSUMPTIONS
 
--Maximum of four word sentences from the words in the dictionary.
+- Maximum of four-word sentences from the words in the dictionary.
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 CODE ISSUES TO FIX
 
--Removing hard coded spaces.
--Extending beyond four word sentences. Getting combinations without multiple for loops.
+- Removing hard coded spaces.
+- Extending beyond four-word sentences. Getting combinations without multiple for loops.
 
 
 

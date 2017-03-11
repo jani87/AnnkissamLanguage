@@ -31,17 +31,21 @@ Input = "abcd", should return the following list:
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-REQUIREMENT
+ASSUMPTIONS
 
-Forming a sentence using input provided based on Annkissam dictionary following set of rules.
+Passing empty string will return empty array.
 
-Rules:
-- have all its words present in the Annkissam Dictionary.
-- have a verb.
-- have a noun or have at least two articles.
+If the input is made of anything other than alphabets between a to j, output will be an empty array.
+
+This code is limited for maximum of four word sentences with the words in the dictionary.
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-ASSUMPTIONS
+CODE ISSUES
 
-Passing empty string:  
+This code is having hardcoded spaces.
+
+Having fixed set of words(Dictionary).
+
+
+
